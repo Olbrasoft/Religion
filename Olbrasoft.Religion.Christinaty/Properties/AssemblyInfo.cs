@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Olbrasoft.Religion.Mvc.UnitTest")]
+[assembly: AssemblyTitle("Olbrasoft.Religion.Christinaty")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Olbrasoft.Religion.Mvc.UnitTest")]
+[assembly: AssemblyProduct("Olbrasoft.Religion.Christinaty")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3f9f4896-e980-444c-a5d9-cb517a67776a")]
+[assembly: Guid("b79a21db-0bbf-4305-ad44-4d4b3b5a2a19")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olbrasoft.Religion.Mvc", "Olbrasoft.Religion.Mvc\Olbrasoft.Religion.Mvc.csproj", "{E861D432-0DDF-4609-9F2C-D5621E947FB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olbrasoft.Religion.Mvc.UnitTest", "Olbrasoft.Religion.Mvc.UnitTest\Olbrasoft.Religion.Mvc.UnitTest.csproj", "{722164D8-7775-4D86-9B6E-6D26C5D80919}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olbrasoft.Religion.Mvc.UnitTest", "Olbrasoft.Religion.Mvc.UnitTest\Olbrasoft.Religion.Mvc.UnitTest.csproj", "{3F9F4896-E980-444C-A5D9-CB517A67776A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{E861D432-0DDF-4609-9F2C-D5621E947FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E861D432-0DDF-4609-9F2C-D5621E947FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E861D432-0DDF-4609-9F2C-D5621E947FB8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{722164D8-7775-4D86-9B6E-6D26C5D80919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{722164D8-7775-4D86-9B6E-6D26C5D80919}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{722164D8-7775-4D86-9B6E-6D26C5D80919}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{722164D8-7775-4D86-9B6E-6D26C5D80919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F9F4896-E980-444C-A5D9-CB517A67776A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9F4896-E980-444C-A5D9-CB517A67776A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9F4896-E980-444C-A5D9-CB517A67776A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9F4896-E980-444C-A5D9-CB517A67776A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
