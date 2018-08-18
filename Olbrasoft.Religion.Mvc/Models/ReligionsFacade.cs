@@ -4,6 +4,8 @@ namespace Olbrasoft.Religion.Mvc.Models
 {
     public class ReligionsFacade : IReligionsFacade
     {
+
+
         private IEnumerable<ReligionDataTransferObject> _religions;
         private IEnumerable<ReligionDataTransferObject> Religions => _religions ?? (_religions = Build());
         

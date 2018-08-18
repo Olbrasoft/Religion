@@ -21,10 +21,7 @@ namespace Olbrasoft.Religion.Mvc.UnitTest
             Assert.IsInstanceOf<IReligionsFacade>(religionsFacade);
         }
 
-
         
-
-
         [Test]
         public void GetIsInstanceOfIEnumerableOfReligionDataTransferObject()
         {

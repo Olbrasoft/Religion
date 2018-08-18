@@ -11,6 +11,9 @@ namespace Olbrasoft.Religion.Mvc.Controllers
     //todo How change in Visual Studio DefaultController to HomeController
     public class HomeController : ReligionController
     {
+
+      
+       
         private IReligionsFacade facade;
 
         public HomeController(IReligionsFacade facade)
